@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on cpython
+- 🌱 I’m currently learning x86-64 assembly
 - 👯 I’m looking to collaborate on python
 - 💬 Ask me about python
 - 😄 Pronouns: he/him
